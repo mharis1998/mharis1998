@@ -1,4 +1,5 @@
 ## Hi 👋, I'm Muhammad Haris
+Mechatronics Engineer | AI Developer from ![image](https://github.com/mharis1998/mharis1998/assets/108782925/5d329b91-19bb-4caa-8a6f-4c575cf06bb3)
 
 ### Skills & Experience
 
