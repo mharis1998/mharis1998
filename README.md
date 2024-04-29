@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
-<h3 align="center">Mechatronics Engineer from Canada</h3>
+<h3 align="center">Mechatronics Engineer</h3>
 
 Highly motivated, detailed, and performance-oriented Mechatronics engineer with experience in Robotics,
 Industrial Automation, Computer Vision, Facial Recognition, OCR, object detection, tracking, Deep Learning,
