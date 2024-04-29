@@ -1,4 +1,4 @@
-<ceneter>## Hi 👋, I'm Muhammad Haris?<cenetr>
+## Hi 👋, I'm Muhammad Haris
 
 ### Skills & Experience
 
