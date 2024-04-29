@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
-<h3 align="center">Mechatronics Engineer and AI Developer from Canada</h3>
+<h3 align="center">Mechatronics Engineer and AI Developer from Canada 🇨🇦</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
