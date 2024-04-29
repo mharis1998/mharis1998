@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Muhammad Haris
-Mechatronics Engineer | AI Developer from Canada
+Mechatronics Engineer and AI Developer from Canada
 ### Skills & Experience
 
 🤖 Robotics
