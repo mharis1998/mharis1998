@@ -7,19 +7,25 @@
 
 <h3 align="center">Mechatronics Engineer | AI Developer | Data Sceintist</h3>
 
-<br/>
+### Skills & Experience
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+🤖 Robotics
+🏭 Industrial Automation
+👁️ Computer Vision
+📸 Facial Recognition
+🔍 OCR (Optical Character Recognition)
+🎯 Object Detection and Tracking
+🧠 Deep Learning
+🤖 Machine Learning
+📊 Data Science
+🌐 Embedded Systems
+🐧 Linux
+🎛️ Programmable Logic Controllers (PLCs)
+🎛️ Control Systems
+🛠️ Arduino
+🍓 Raspberry Pi
+🖥️ SolidWorks (CAD Software)
+🌐 IoT Projects
 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
