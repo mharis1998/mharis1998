@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
-<h3 align="center">Mechatronics Engineer</h3>
 
  Highly motivated, detailed, and performance-oriented Mechatronics Engineer with experience in Robotics, Industrial Automation, Computer Vision, Facial Recognition, OCR, object detection, tracking, Deep Learning, Machine Learning, Data Science, embedded system, Linux, Programmable Logic Controller, Control system, Arduino, Raspberry Pi, SolidWorks, and IoT projects. Expertise includes contributions to Modeling, enhancing predictive outcomes and process efficiency. Dedicated to ensuring the development of safe and trustworthy AI applications
 
